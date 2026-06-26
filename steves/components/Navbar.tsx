@@ -44,7 +44,7 @@ const Navbar: React.FC = () => {
     { name: 'Connect', href: '#contact' }, // Connect now also points to Contact
   ];
 
-  const logoUrl = "https://uploads.onecompiler.io/44tee6t2a/1782462216136/1000082498.png";
+  const logoUrl = "/logo.jpeg";
 
   const handleNavClick = (e: React.MouseEvent<HTMLAnchorElement>, href: string, name: string) => {
     setActiveSection(name);
