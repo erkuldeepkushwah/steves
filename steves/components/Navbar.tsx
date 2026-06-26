@@ -132,12 +132,12 @@ const Navbar: React.FC = () => {
             onClick={(e) => e.stopPropagation()}
           >
             {/* Mobile Header inside Dropdown */}
-            <div className="h-20 px-6 flex justify-between items-center border-b border-gray-100">
+            <div className="h-24 px-6 flex justify-between items-center border-b border-gray-100">
               <a href="#home" onClick={(e) => handleNavClick(e, '#home', 'Home')} className="flex items-center">
                 <img 
                   src={logoUrl} 
                   alt="STEVES AI" 
-                  className="h-16 object-contain" 
+                  className="h-20 object-contain" 
                 />
               </a>
               <button 
