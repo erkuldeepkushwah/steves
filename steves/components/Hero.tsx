@@ -72,7 +72,7 @@ const Hero: React.FC = () => {
                   <div className="absolute left-0 bottom-0 w-[30%] md:w-[180px] h-[6px] bg-white shadow-sm"></div>
 
                   {/* Title */}
-                  <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-white leading-[1.1] mb-6 drop-shadow-xl whitespace-pre-line tracking-tight">
+                  <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-white leading-[1.1] mb-6 drop-shadow-xl whitespace-pre-line tracking-tight">
                     {slide.title}
                   </h1>
                   
