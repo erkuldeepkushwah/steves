@@ -2,7 +2,7 @@
 
 A modern AI-powered landing page built with React, TypeScript, Vite, and Tailwind CSS.
 
-## Live Demo
+## Live Website
 
 https://steves-ai.pages.dev/
 
@@ -28,7 +28,7 @@ https://steves-ai.pages.dev/
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/steves-ai.git
+git clone https://github.com/erkuldeepkushwah/steves-ai.git
 cd steves-ai
 npm install
 npm run dev
@@ -36,7 +36,7 @@ npm run dev
 
 ## Live Website
 
-**Demo:** https://steves-ai.pages.dev/
+** https://steves-ai.pages.dev/
 
 ## License
 
