@@ -11,7 +11,7 @@ const About: React.FC = () => {
           <div className="lg:w-1/2 relative">
             <div className="relative overflow-hidden rounded-lg shadow-2xl border-b-8 border-primary">
               <img 
-                src="https://www.clarigoinfotech.com/upload/blog_img/Bank_tech_11.jpg" 
+                src="/3.png" 
                 alt="STEVES AI Team Meeting" 
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
               />
