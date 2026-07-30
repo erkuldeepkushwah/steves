@@ -11,7 +11,7 @@ const About: React.FC = () => {
           <div className="lg:w-1/2 relative">
             <div className="relative overflow-hidden rounded-lg shadow-2xl border-b-8 border-primary">
               <img 
-                src="steves/public/3.png" 
+                src="https://uploads.onecompiler.io/4426xrepu/1781001611460/image-Picsart-AiImageEnhancer%20(1).png" 
                 alt="STEVES AI Team Meeting" 
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
               />
